@@ -1,4 +1,4 @@
-(defproject analytics-clj "0.3.0-tcc"
+(defproject analytics-clj "dynamic"
   :description "Idiomatic Clojure wrapper for the segment.io Java client"
   :url "http://ardoq.com"
   :repositories {"climate" "http://xdeps.ci.climatedna.net/maven"}

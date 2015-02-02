@@ -25,7 +25,7 @@ If you are using Maven, add the following repository definition to your `pom.xml
 With Leiningen:
 
 ```clj
-[analytics-clj "0.2.2"]
+[analytics-clj "2015.02.02T21.21.11.0fbe7bf"]
 ```
 
 With Maven:
